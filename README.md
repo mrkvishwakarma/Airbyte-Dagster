@@ -19,6 +19,7 @@ In this project, we implemented an end-to-end data engineering pipeline using op
 - **Google Cloud Platform (GCP):** Hosted the infrastructure and provided scalable cloud services.
 - **Docker:** Enabled containerization for consistent and reproducible environments.
 - **PostgreSQL:** Used as the primary database for storing processed data.
+- **Google BigQuery**: For scalable data storage and analytics.
 
 ## Learning Outcomes
 By working on this project, I gained hands-on experience with building and managing data engineering pipelines, from ingestion to transformation, using modern tools and best practices. This project also helped me develop a deeper understanding of the data engineering lifecycle and how to effectively turn complex data into valuable insights.
